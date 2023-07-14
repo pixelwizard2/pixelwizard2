@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/Instagram-FF00FF?style=flat-square&logo=Instagram&logoColor=white"/>
 - 👋 Hi, I’m @floritaa
 - 👀 I’m interested in Android app develop
 - 🌱 I’m currently learning IT(Application Development & AI Engineering) in Intel Korea
@@ -5,7 +6,7 @@
 - 📫 How to reach me ...!!?
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Instagram-FF00FF?style=flat-square&logo=Instagram&logoColor=white"/>
+
 
 
 <!---
