@@ -5,6 +5,8 @@
 - 📫 How to reach me ...!!?
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+https://img.shields.io/badge/aaa-bbb-red
+
 
 <!---
 floritaa/floritaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
