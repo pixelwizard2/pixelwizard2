@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Every countries :-)
 - 📫 How to reach me ...!!?
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/aaa-bbb-red"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Instagram-8977AD4?style=flat-square&logo=Instagram&logoColor=white"/>
 
 
 <!---
