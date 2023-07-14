@@ -6,7 +6,11 @@
 - 📫 How to reach me ...!!?
 
 Platforms
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
+
+Languages
+
 <img src="https://img.shields.io/badge/Kotlin-3399FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-FFFF00?style=flat-square&logo=Python&logoColor=black"/> 
 
