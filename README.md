@@ -15,8 +15,7 @@
 
 ### Job's Experience
 
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/RESTful_API-FF1709?style=flat-square&logo=restful&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white"/>   <img src="https://img.shields.io/badge/ROKA-0080FF?style=flat-square&logo=roka&logoColor=white"/>
 
 
 ### Technique & Tools
