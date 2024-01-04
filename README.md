@@ -1,6 +1,7 @@
 <!-- Your badges here -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pixelwizard2)
-  [![Email](https://img.shields.io/badge/-Email-FF4500?style=flat-square&logo=Gmail&logoColor=white)](mailto:pixelwizard@naver.com)
+  [![Email](https://img.shields.io/badge/-Email-FF4500?style=flat-square&logo=Gmail&logoColor=white)](mailto:pixelwizard@naver.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/pixelwizard)
+
 
 
 ### 👋 Hi there, I'm @pixelwizard2! 👋
