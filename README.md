@@ -16,7 +16,7 @@
 
 ### Work Experience & Abilities
 
-<img src="https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white"/>  <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=ai&logoColor=white"/>  <img src="https://img.shields.io/badge/ML-15B4F1?style=flat-square&logo=ML&logoColor=white"/>   <img src="https://img.shields.io/badge/NLP-29B1E5?style=flat-square&logo=nlp&logoColor=white"/>  <img src="https://img.shields.io/badge/APP-60DB84?style=flat-square&logo=App&logoColor=white"/>  <img src="https://img.shields.io/badge/DBA-007BFF?style=flat-square&logo=dba&logoColor=white"/>  <img src="https://img.shields.io/badge/CV-3D3D3D?style=flat-square&logo=cv&logoColor=white"/>  <img src="https://img.shields.io/badge/WEB-013243?style=flat-square&logo=Web&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white"/>  <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=ai&logoColor=white"/>  <img src="https://img.shields.io/badge/ML--F7931E?style=flat-square&logo=ML&logoColor=white"/>   <img src="https://img.shields.io/badge/NLP-29B1E5?style=flat-square&logo=nlp&logoColor=white"/>  <img src="https://img.shields.io/badge/APP-60DB84?style=flat-square&logo=App&logoColor=white"/>  <img src="https://img.shields.io/badge/DBA-007BFF?style=flat-square&logo=dba&logoColor=white"/>  <img src="https://img.shields.io/badge/CV-3D3D3D?style=flat-square&logo=cv&logoColor=white"/>  <img src="https://img.shields.io/badge/WEB-013243?style=flat-square&logo=Web&logoColor=white"/>
 
 
 
