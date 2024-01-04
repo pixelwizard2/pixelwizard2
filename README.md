@@ -13,6 +13,11 @@
 💞️ I'm open to collaborations with professionals and developers from around the globe.
 
 
+### Job's Experience
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/RESTful_API-FF1709?style=flat-square&logo=restful&logoColor=white"/>
+
+
 
 ### Technique & Tools
 
