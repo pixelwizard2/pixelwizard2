@@ -15,7 +15,7 @@
 
 ### Job's Experience
 
-<img src="https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white"/>   <img src="https://img.shields.io/badge/ROKA-0080FF?style=flat-square&logo=roka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white"/>   <img src="https://img.shields.io/badge/ROKA-0080FF?style=flat-square&logo=roka&logoColor=white"/>  <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=ai&logoColor=white"/>
 
 
 ### Technique & Tools
