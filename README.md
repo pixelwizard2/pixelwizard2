@@ -15,12 +15,19 @@
 
 ### Languages
 
-<img src="https://img.shields.io/badge/Kotlin-3399FF?style=flat-square&logo=Kotlin&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-FFFF00?style=flat-square&logo=Python&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Python-FFFF00?style=flat-square&logo=Python&logoColor=black"/>  <img src="https://img.shields.io/badge/Kotlin-3399FF?style=flat-square&logo=Kotlin&logoColor=white"/>   
 
 ### Technologies & Tools
 
-<img src="뱃지 이미지 URL1" alt="Python" style="margin: 5px"/>
-<img src="뱃지 이미지 URL2" alt="TensorFlow" style="margin: 5px"/>
+Technologies & Tools
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-3766AB?style=flat-square&logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+
 
 
 
