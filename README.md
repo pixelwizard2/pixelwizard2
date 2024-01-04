@@ -15,7 +15,7 @@
 
 ### Job's Experience
 
-<img src="https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white"/>   <img src="https://img.shields.io/badge/ROKA-0080FF?style=flat-square&logo=roka&logoColor=white"/>  <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white"/>   <img src="https://img.shields.io/badge/ROKA-0080FF?style=flat-square&logo=roka&logoColor=white"/>  <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=ai&logoColor=white"/>  <img src="https://img.shields.io/badge/Machine_Learning-15B4F1?style=flat-square&logo=machine-learning&logoColor=white"/>   <img src="https://img.shields.io/badge/NLP-29B1E5?style=flat-square&logo=nlp&logoColor=white"/>  <img src="https://img.shields.io/badge/CV-3D3D3D?style=flat-square&logo=cv&logoColor=white"/>   <img src="https://img.shields.io/badge/DBA-007BFF?style=flat-square&logo=dba&logoColor=white"/>  <img src="https://img.shields.io/badge/APP_Development-60DB84?style=flat-square&logo=app-development&logoColor=white"/>  <img src="https://img.shields.io/badge/WEB_Development-FFC859?style=flat-square&logo=web-development&logoColor=white"/>
 
 
 ### Technique & Tools
