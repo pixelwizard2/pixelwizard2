@@ -1,7 +1,7 @@
-<img src="https://img.shields.io/badge/Instagram-FF00FF?style=flat-square&logo=Instagram&logoColor=white"/>  <img src="https://img.shields.io/badge/77aaba@gmail.com-FF4500?style=flat-square&logo=Gmail&logoColor=white"/>
-- 👋 Hi, I’m @floritaa
-- 👀 I’m interested in Android app develop
-- 🌱 I’m currently learning IT(Application Development & AI Engineering) in Intel Korea
+<img src="https://img.shields.io/badge/Instagram-FF00FF?style=flat-square&logo=Instagram&logoColor=white"/>  <img src="https://img.shields.io/badge/pixelwizard@naver.com-FF4500?style=flat-square&logo=Gmail&logoColor=white"/>
+- 👋 Hi, I’m @pixelwizard2
+- 👀 I’m AI Engineer
+- 🌱 I’m currently looking for IT(Application Development & AI Engineering) job in Korea, also all over the world!
 - 💞️ I’m looking to collaborate on Every countries :-)
 - 📫 How to reach me ...!!?
 
@@ -17,7 +17,4 @@ Languages
 
 
 
-<!---
-floritaa/floritaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
