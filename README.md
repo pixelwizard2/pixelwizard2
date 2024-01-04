@@ -16,7 +16,7 @@
 
 ### Work Experience & Abilities
 
-<img src="https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white"/>  <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=ai&logoColor=white"/>   <img src="https://img.shields.io/badge/APP-60DB84?style=flat-square&logo=App&logoColor=white"/>  <img src="https://img.shields.io/badge/DBA-013243?style=flat-square&logo=dba&logoColor=white"/>  <img src="https://img.shields.io/badge/WEB-013243?style=flat-square&logo=Web&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white"/>  <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=ai&logoColor=white"/>   <img src="https://img.shields.io/badge/APP-013243?style=flat-square&logo=App&logoColor=white"/>  <img src="https://img.shields.io/badge/DBA-013243?style=flat-square&logo=dba&logoColor=white"/>  <img src="https://img.shields.io/badge/WEB-013243?style=flat-square&logo=Web&logoColor=white"/>
 
 
 
