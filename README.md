@@ -1,5 +1,5 @@
 <!-- Your badges here -->
-<img src="https://img.shields.io/badge/Instagram-FF00FF?style=flat-square&logo=Instagram&logoColor=white"/>  <img src="https://img.shields.io/badge/pixelwizard@naver.com-FF4500?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>  <img src="https://img.shields.io/badge/pixelwizard@naver.com-FF4500?style=flat-square&logo=Gmail&logoColor=white"/>
 
 ### 👋 Hi there, I'm @pixelwizard2! 👋
 
