@@ -29,7 +29,8 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/CNN-FF9A00?style=flat-square&logo=cnn&logoColor=white"/>
 <img src="https://img.shields.io/badge/GAN-FF9A00?style=flat-square&logo=gan&logoColor=white"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+
 
  
 
