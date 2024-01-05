@@ -4,9 +4,9 @@
 
 
 
-### 👋 Hi there, I'm @pixelwizard2! 👋
+### 👋 Hi there, I'm Hyeontae Son! 👋
 
-👀 I'm an AI Engineer with a passion for technology and innovation. I'm currently seeking opportunities in IT (Application Development & AI Engineering) in Korea and worldwide.
+👀 I'm an AI Engineer with a passion for technology and innovation. I'm currently seeking opportunities in IT (AI Engineering & etc) in Korea and worldwide.
 
 🌱 I'm continuously learning and staying updated with the latest advancements in the tech industry.
 
