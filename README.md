@@ -23,8 +23,17 @@ I'm driven by a passion for technology and innovation. Committed to continuous l
 - **Tools**: Docker, Google Colab, VS Code, Jupyter Notebook, IntelliJ IDEA, Android Studio  <br>
 
 
+<!-- 이것은 주석이며 렌더링된 README에 표시되지 않습니다 -->
+
+<!--
+
+<!-- Customize your pins -->
+### Pinned Projects
+- **[Project AI - GuardianPay](https://github.com/pixelwizard2/Project.AI--GuardianPay---Protecting-Against-Lost-Card-and-Copied-Card-Transactions/tree/main)** : Protecting Against Lost Card and Copied Card Transactions
 
 
+<!-- Contributions -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixelwizard2&show_icons=true)
 
 
 
@@ -43,9 +52,9 @@ I'm driven by a passion for technology and innovation. Committed to continuous l
 
 
 
+-->
 
-
-
+<!-- 이것은 주석이며 렌더링된 README에 표시되지 않습니다 -->
 
  
 
