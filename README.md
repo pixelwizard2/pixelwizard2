@@ -10,7 +10,7 @@
 
 
 ### About Me
-Technology and innovation are the keystones of my professional drive. Dedicated to lifelong learning, I keep pace with the rapidly evolving tech landscape and welcome collaborative ventures with global industry experts and developers. <br>
+Driven by innovation in technology, I am a dedicated AI Engineer with a commitment to lifelong learning. With a focus on AI and IT advancements, I engage in global collaborations to push the boundaries of technology. <br>
 
 
 ### Work Experience & Abilities
@@ -18,9 +18,7 @@ Technology and innovation are the keystones of my professional drive. Dedicated 
 
 
 ### Technique & Tools
-- **Languages**: Python, Kotlin, Java
-- **Frameworks**: Keras, TensorFlow, Matplotlib
-- **Tools**: Docker, Google Colab, Android Studio  <br>
+- Proficient in Python; experienced with frameworks such as Keras and TensorFlow; adept in Docker, Google Colab, and Jupyter Notebook."
 
 
 <!-- 이것은 주석이며 렌더링된 README에 표시되지 않습니다 -->
