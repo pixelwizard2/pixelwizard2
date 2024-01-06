@@ -23,13 +23,7 @@ I'm driven by a passion for technology and innovation. Committed to continuous l
 - **Tools**: Docker, Google Colab, VS Code, Jupyter Notebook, IntelliJ IDEA, Android Studio  <br>
 
 
-<!-- Customize your pins -->
-### Pinned Projects
-- **[Project AI - GuardianPay](https://github.com/pixelwizard2/Project.AI--GuardianPay---Protecting-Against-Lost-Card-and-Copied-Card-Transactions/tree/main)** : Protecting Against Lost Card and Copied Card Transactions
 
-
-<!-- Contributions -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixelwizard2&show_icons=true)
 
 
 
