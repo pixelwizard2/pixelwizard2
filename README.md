@@ -9,11 +9,10 @@
 **Currently seeking opportunities in IT (AI Engineering & etc) Worldwide**
 
 ### About Me
-I'm driven by a passion for technology and innovation. Committed to continuous learning and staying updated with the latest advancements in the tech industry, I'm open to collaborations with professionals and developers from around the globe. <br> <br>
+I'm driven by a passion for technology and innovation. Committed to continuous learning and staying updated with the latest advancements in the tech industry, I'm open to collaborations with professionals and developers from around the globe. <br>
 
 ### Work Experience & Abilities
-- <img src="https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white"/> : AI | Database | Application | Web Development  
-<img src="https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white"/>  <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=ai&logoColor=white"/>  <img src="https://img.shields.io/badge/DBA-150458?style=flat-square&logo=dba&logoColor=white"/>  <img src="https://img.shields.io/badge/APP-150458?style=flat-square&logo=App&logoColor=white"/>  <img src="https://img.shields.io/badge/WEB-150458?style=flat-square&logo=Web&logoColor=white"/> <br>
+- **Intel**: AI | Database | Application | Web Development <br>
 
 ### Technique & Tools
 - **Languages**: Python, JavaScript, Java
