@@ -19,7 +19,7 @@ I'm driven by a passion for technology and innovation. Committed to continuous l
 
 ### Technique & Tools
 - **Languages**: Python, Kotlin, Java
-- **Frameworks**: Keras, TensorFlow, Matplotlib, Seaborn, Numpy
+- **Frameworks**: Keras, TensorFlow, Matplotlib, Seaborn, Numpy, Scikit-learn
 - **Tools**: Docker, Google Colab, VS Code, Jupyter Notebook, IntelliJ IDEA, Android Studio  <br>
 
 
