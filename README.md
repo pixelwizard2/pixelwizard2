@@ -25,7 +25,7 @@ I'm driven by a passion for technology and innovation. Committed to continuous l
 
 <!-- Customize your pins -->
 ### Pinned Projects
-- **[Project AI - GuardianPay](link-to-your-project)**: Protecting Against Lost Card and Copied Card Transactions
+- **[Project AI - GuardianPay](https://github.com/pixelwizard2/Project.AI--GuardianPay---Protecting-Against-Lost-Card-and-Copied-Card-Transactions/tree/main)** : Protecting Against Lost Card and Copied Card Transactions
 
 
 <!-- Contributions -->
