@@ -5,7 +5,31 @@
 
 
 
-"Hello, I am Hyeontae Son, an AI Engineer driven by a passion for technology and innovation. Actively seeking opportunities in IT, including AI Engineering, both in Korea and globally. Committed to continuous learning and staying abreast of the latest technological advancements. Open to global collaborations with professionals and developers."
+"Hello, I am Hyeontae Son, an AI Engineer driven by a passion for technology and innovation. Actively seeking opportunities in IT, including AI Engineering, both in Korea and globally. Committed to continuous learning and staying abreast of the latest technological advancements. Open to global collaborations with professionals and developers."  
+
+
+# Hyeontae Son
+## AI Engineer | Technology Enthusiast | Innovator
+**Currently seeking opportunities in IT (AI Engineering & etc) worldwide**
+
+### About Me
+I'm driven by a passion for technology and innovation. Committed to continuous learning and staying updated with the latest advancements in the tech industry, I'm open to collaborations with professionals and developers from around the globe.
+
+### Work Experience & Abilities
+- **Intel**: AI | Database | Application | Web Development
+
+### Technique & Tools
+- **Languages**: Python, JavaScript, Java
+- **Frameworks**: Keras, TensorFlow, PyTorch
+- **Tools**: Docker, Kubernetes, GitHub, VS Code
+
+<!-- Customize your pins -->
+### Pinned Projects
+- **[Project AI - GuardianPay](link-to-your-project)**: Protecting Against Lost Card and Copied Card Transactions
+
+<!-- Contributions -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixelwizard2&show_icons=true)
+
 
 
 
