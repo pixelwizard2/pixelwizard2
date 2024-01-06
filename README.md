@@ -4,13 +4,8 @@
 
 
 
-### 👋 Hi there, I'm Hyeontae Son! 👋
 
-👀 I'm an AI Engineer with a passion for technology and innovation. I'm currently seeking opportunities in IT (AI Engineering & etc) in Korea and worldwide.
-
-🌱 I'm continuously learning and staying updated with the latest advancements in the tech industry.
-
-💞️ I'm open to collaborations with professionals and developers from around the globe.
+"Hello, I am Hyeontae Son, an AI Engineer driven by a passion for technology and innovation. Actively seeking opportunities in IT, including AI Engineering, both in Korea and globally. Committed to continuous learning and staying abreast of the latest technological advancements. Open to global collaborations with professionals and developers."
 
 
 
