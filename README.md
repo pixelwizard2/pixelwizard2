@@ -10,11 +10,11 @@
 
 
 ### About Me
-I'm driven by a passion for technology and innovation. Committed to continuous learning and staying updated with the latest advancements in the tech industry, I'm open to collaborations with professionals and developers from around the globe. <br>
+"Technology and innovation are the keystones of my professional drive. Dedicated to lifelong learning, I keep pace with the rapidly evolving tech landscape and welcome collaborative ventures with global industry experts and developers." <br>
 
 
 ### Work Experience & Abilities
-- **Intel** : AI | Application <br>
+- **Intel**: AI | Application <br>
 
 
 ### Technique & Tools
