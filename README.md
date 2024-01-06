@@ -14,7 +14,7 @@ Technology and innovation are the keystones of my professional drive. Dedicated 
 
 
 ### Work Experience & Abilities
-- **Intel**: AI | Application <br>
+- **Intel**: AI | Application(Web-App) <br>
 
 
 ### Technique & Tools
