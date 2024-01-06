@@ -5,7 +5,7 @@
 
 
 # Hyeontae Son
-## AI Engineer | Technology Enthusiast | Innovator
+## AI Engineer | 
 **Currently seeking opportunities in IT (AI Engineering & etc) Worldwide**
 
 
@@ -14,13 +14,13 @@ I'm driven by a passion for technology and innovation. Committed to continuous l
 
 
 ### Work Experience & Abilities
-- **Intel** : AI | Database | Application | Web Development <br>
+- **Intel** : AI | Database | Application <br>
 
 
 ### Technique & Tools
 - **Languages**: Python, Kotlin, Java
-- **Frameworks**: Keras, TensorFlow, Matplotlib, Seaborn, Numpy, Scikit-learn
-- **Tools**: Docker, Google Colab, VS Code, Jupyter Notebook, IntelliJ IDEA, Android Studio  <br>
+- **Frameworks**: Keras, TensorFlow, Matplotlib
+- **Tools**: Docker, Google Colab, IntelliJ IDEA, Android Studio  <br>
 
 
 <!-- 이것은 주석이며 렌더링된 README에 표시되지 않습니다 -->
