@@ -12,7 +12,7 @@
 I'm driven by a passion for technology and innovation. Committed to continuous learning and staying updated with the latest advancements in the tech industry, I'm open to collaborations with professionals and developers from around the globe. <br>
 
 ### Work Experience & Abilities
-- **Intel**: AI | Database | Application | Web Development <br>
+- **Intel** : AI | Database | Application | Web Development <br>
 
 ### Technique & Tools
 - **Languages**: Python, JavaScript, Java
