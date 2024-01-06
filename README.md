@@ -10,8 +10,7 @@
 
 
 ### About Me
-Technology and innovation are the keystones of my professional drive.  
-Dedicated to lifelong learning, I keep pace with the rapidly evolving tech landscape and welcome collaborative ventures with global industry experts and developers. <br>
+Technology and innovation are the keystones of my professional drive. Dedicated to lifelong learning, I keep pace with the rapidly evolving tech landscape and welcome collaborative ventures with global industry experts and developers. <br>
 
 
 ### Work Experience & Abilities
