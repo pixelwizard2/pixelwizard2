@@ -19,7 +19,7 @@ With a focus on AI and IT advancements, I engage in global collaborations to pus
 
 
 ### Technique & Tools
-- Proficient in Python; experienced with frameworks such as Keras and TensorFlow; adept in Google Colab, and Jupyter Notebook."
+- Proficient in Python; experienced with frameworks such as Keras and TensorFlow; adept in Google Colab, and Jupyter Notebook.
 
 
 <!-- 이것은 주석이며 렌더링된 README에 표시되지 않습니다 -->
