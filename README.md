@@ -15,9 +15,9 @@ With a focus on AI, IT advancements, and database solutions, I engage in global 
 
 
 ### Work Experience & Education
-- **Intel**: Recognized for the ability to develop AI solutions that address real-world corporate and societal challenges. At Intel, demonstrated expertise in creating cross-platform (web and mobile) applications powered by AI to deliver tangible benefits.
+- **Intel**: Recognized for the ability to develop AI solutions that address real-world corporate and societal challenges. At Intel, demonstrated expertise in creating cross-platform (Web and Mobile App) applications powered by AI to deliver tangible benefits.
 
-- **IBM**: Engaging in hands-on training to construct data warehouses that emulate the EXADATA database environment, honing skills in managing complex datasets and optimizing data storage for efficient retrieval and analysis.
+- **IBM**: Engaging in hands-on training to construct data warehouses that emulate the Exadata database environment, honing skills in managing complex datasets and optimizing data storage for efficient retrieval and analysis.
 
 - **Oracle**: Completed coursework as an Oracle Cloud Infrastructure Architect Professional, acquiring knowledge in cloud service management and architectural design within Oracle's ecosystem.
 
