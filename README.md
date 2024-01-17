@@ -24,6 +24,7 @@ With a focus on AI, IT advancements, and database solutions, I engage in global 
 
 ### Technique & Tools
 - Proficient in Python; experienced with frameworks such as Keras and TensorFlow; adept in Google Colab, and Jupyter Notebook.
+- Experience with MySQL for database design, query optimization, and data manipulation. Independently achieved a foundational level in designing basic data warehousing solutions, with a solid grasp of core database principles.
 
 
 <!-- 이것은 주석이며 렌더링된 README에 표시되지 않습니다 -->
