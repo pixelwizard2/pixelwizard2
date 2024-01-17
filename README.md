@@ -10,8 +10,8 @@
 
 
 ### About Me
-Driven by innovation in technology, I am a dedicated AI Engineer with a commitment to lifelong learning.  
-With a focus on AI and IT advancements, I engage in global collaborations to push the boundaries of technology. <br>
+Driven by innovation in technology, I am a dedicated AI Engineer and Database Developer with a commitment to lifelong learning.  
+With a focus on AI, IT advancements, and database solutions, I engage in global collaborations to push the boundaries of technology. <br>
 
 
 ### Work Experience & Abilities
