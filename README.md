@@ -5,7 +5,7 @@
 
 
 # Hyeontae Son
-## AI Engineer | Database Developer
+## AI Engineer  |  Database Developer
 **Currently seeking opportunities in IT (AI Engineering, Database Development, etc) Worldwide**
 
 
