@@ -6,7 +6,7 @@
 
 # Hyeontae Son
 ## AI Engineer 
-**Currently seeking opportunities in IT (AI Engineering & etc) Worldwide**
+**Currently seeking opportunities in IT (AI Engineering, Database Development, etc) Worldwide**
 
 
 ### About Me
