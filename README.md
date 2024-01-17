@@ -15,7 +15,6 @@ With a focus on AI, IT advancements, and database solutions, I engage in global 
 
 
 ### Work Experience & Abilities
-- **Intel**: AI | Application(Web-App) <br>
 - **Intel**: Recognized for the ability to develop AI solutions that address real-world corporate and societal challenges. At Intel, demonstrated expertise in creating cross-platform (web and mobile) applications powered by AI to deliver tangible benefits.
 
 - **IBM**: Engaging in hands-on training to construct data warehouses that emulate the EXADATA database environment, honing skills in managing complex datasets and optimizing data storage for efficient retrieval and analysis.
